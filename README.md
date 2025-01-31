@@ -41,6 +41,10 @@ Calculated total: <computed_total>
 Expected total: <expected_total>
 All tests passed successfully!
 ```
+## Screenshot of the output
+Below is a screenshot of the expected output when running the program:
+
+<img width="1470" alt="Screenshot 2025-01-31 at 1 05 59 PM" src="https://github.com/user-attachments/assets/e8d86527-9a9e-4e86-97ed-189f5c41f7b7" />
 
 ## File Structure
 - `main.cpp`: Contains the ShoppingCart class implementation and test cases.
